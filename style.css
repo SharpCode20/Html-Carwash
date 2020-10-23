@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: red;
+    margin:auto
+}
+#buttons{
+    text-align: center;
+    border:1px solid black;
+    padding:20px
+}
+#login{
+    text-align: center;
+    border:1px solid black;
+    padding:20px
+}
+#signup{
+    text-align: center;
+    border:1px solid black;
+    padding:20px
+}
